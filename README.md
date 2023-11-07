@@ -1,0 +1,2 @@
+# CoffeeOSS-Rev2
+Android版CoffeeブラウザーのUIを継承した軽量でオープンソースなWindows版のCoffeeブラウザー!(改善版Rev2です!)
